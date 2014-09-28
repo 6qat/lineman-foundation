@@ -1,5 +1,3 @@
-_ = require("underscore")
-
 module.exports = (lineman) ->
   
   config: 
@@ -7,5 +5,5 @@ module.exports = (lineman) ->
       compile:
         options:
           loadPath: ["app/css", "vendor/css", "node_modules/lineman-foundation/vendor/css"]
-          
+
     enableSass: true
