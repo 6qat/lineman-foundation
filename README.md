@@ -23,7 +23,7 @@ Create a file named bower.json and put in your project's root directory, with th
   	"foundation": "5.4.4"
   }
 }
-```json
+```
 
 Now you can use Zurb Foundation in your project! The entry point for SASS in Lineman is app/css/main.scss . Just create it and import Foundation:
 
