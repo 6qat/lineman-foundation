@@ -1,7 +1,0 @@
-{
-  "name": "lineman-foundation",
-  "version": "0.1.2",
-  "dependencies": {
-  	"foundation": "5.4.4",
-  }
-}
