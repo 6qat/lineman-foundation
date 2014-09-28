@@ -7,3 +7,4 @@ module.exports = (lineman) ->
       compile:
         options:
           loadPath: ["app/css", "vendor/css", "vendor/bower/foundation/scss"]
+    enableSass: true

@@ -17,7 +17,7 @@ Create a file named bower.json and put in your project's root directory, with th
 
 {
   "name": "lineman-foundation",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "dependencies": {
   	"foundation": "5.4.4"
   }
