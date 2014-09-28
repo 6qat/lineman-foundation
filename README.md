@@ -13,18 +13,6 @@ Install this plugin under your Lineman project:
 npm install --save-dev lineman-foundation
 ```
 
-Create a file named bower.json and put in your project's root directory, with the following content:
-
-```json
-{
-  "name": "lineman-foundation",
-  "version": "0.1.6",
-  "dependencies": {
-  	"foundation": "5.4.4"
-  }
-}
-```
-
 Now you can use Zurb Foundation in your project! The entry point for SASS in Lineman is app/css/main.scss . Just create it and import Foundation:
 
 ```

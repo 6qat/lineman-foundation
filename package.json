@@ -1,7 +1,7 @@
 {
   "name": "lineman-foundation",
   "description": "This is a plugin to get started with Zurb Foundaton using [Lineman](http://linemanjs.com)",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "homepage": "https://github.com/6qat/lineman-foundation",
   "author": {
     "name": "Guilherme Ceschiatti B. Moreira",
@@ -18,7 +18,6 @@
     "underscore": "~1.5.2"
   },
   "peerDependencies": {
-    "lineman-bower": "0.0.5",
     "lineman": ">= 0.24.4"
   },
   "devDependencies": {
