@@ -10,7 +10,7 @@ You need to have Ruby and Sass installed and in your PATH for this task to work.
 Install this plugin under your Lineman project:
 
 ```
-npm install --save-dev lineman-foundation lineman-bower
+npm install --save-dev lineman-foundation
 ```
 
 Create a file named bower.json and put in your project's root directory, with the following content:
