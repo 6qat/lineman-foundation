@@ -15,7 +15,6 @@
     "url": "https://github.com/6qat/lineman-foundation/issues"
   },
   "dependencies": {
-    "underscore": "~1.5.2"
   },
   "peerDependencies": {
     "lineman": ">= 0.24.4"
