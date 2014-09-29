@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "grunt": "^0.4.4",
-    "grunt-release": "^0.7.0",
+    "grunt-release": "^0.7.0"
   },
   "licenses": [
     {
