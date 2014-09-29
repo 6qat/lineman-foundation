@@ -8,6 +8,6 @@ module.exports = (lineman) ->
 
     enableSass: true
 
-    files:
-      js:
-        vendor: ["node_modules/lineman-foundation/node_modules/jquery/dist/jquery.js","node_modules/lineman-foundation/vendor/js/foundation.min.js"]
+  files:
+    js:
+      vendor: ["node_modules/jquery/dist/jquery.js","node_modules/lineman-foundation/vendor/js/foundation.min.js", "vendor/js/**/*.js"]
